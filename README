@@ -1,0 +1,1 @@
+This script uses the random and string modules to generate a random password of a specified length that contains lowercase letters, uppercase letters, and digits. It then writes the password to a text file called password.txt.
